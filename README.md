@@ -1,30 +1,32 @@
-# Data Science Portfolio
+# Monica M. Wilson — Data Science Portfolio
 
-This repository showcases end‑to‑end projects demonstrating skills in Python, SQL, statistics, machine learning, NLP, and dashboards.
+Welcome! 👋 I’m Dr. Monica M. Wilson, a business professor and consultant expanding into data science and machine learning.  
+This portfolio showcases my journey in coding, data analysis, and applied machine learning — with projects that connect real-world problems to practical solutions.  
 
-## Highlights
-- Clean code with clear READMEs and reproducible steps
-- Realistic business questions and acceptance criteria
-- Modular structure: each project stands alone
+---
 
-## Projects
-- `01-data-cleaning-eda`: Exploratory data analysis & data quality report
-- `02-sql-analytics`: SQL business questions with a lightweight SQLite db
-- `03-ml-classifier`: Binary classification with scikit-learn, model card
-- `04-nlp`: Text classification / sentiment with spaCy or scikit-learn
-- `05-dashboard`: Streamlit dashboard using outputs from prior projects
+## 🔥 About Me
+- 🎓 Doctor of Business Administration (DBA), MBA, MSIS  
+- 👩🏽‍🏫 Adjunct Faculty of Business | Adjunct Dissertation Committee Member | Executive Director| Published Author | Business Consultant 
+- 💡 Passionate about teaching, analytics, and transforming raw data into insights  
+- ⚙️ Skills: Python, Pandas, SQL, scikit-learn, Streamlit, data visualization
 
-## How to run
+---
+
+## 📂 Featured Projects
+- **01-data-cleaning-eda** → Exploratory data analysis & cleaning on sample datasets  
+- **02-sql-analytics** → Business questions answered with SQL queries & reports  
+- **03-ml-classifier** → Machine learning model (classification) with performance report  
+- **04-nlp** → Natural language processing (sentiment analysis & text classification)  
+- **05-dashboard** → Interactive Streamlit dashboard for KPIs & insights  
+
+---
+
+## 🚀 How to Run Projects
+Clone the repo, create a virtual environment, and install requirements:
 ```bash
-# create environment
+git clone https://github.com/monicawilsonwork-max/data-science-portfolio.git
+cd data-science-portfolio
 python -m venv .venv
-source .venv/bin/activate  # on Windows: .venv\Scripts\activate
+source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-
-# run a project
-cd 03-ml-classifier
-python src/train.py
-```
-
-## License
-MIT
