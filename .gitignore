@@ -18,4 +18,4 @@ data/processed/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.db02-sql-analytics/data/processed/*.db
