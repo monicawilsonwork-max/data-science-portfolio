@@ -1,14 +1,25 @@
-# ML Classifier (Binary)
+# 03 — Machine Learning Classifier
 
-**Goal:** Build a baseline binary classifier and document performance & trade‑offs.
+This project demonstrates a **supervised machine learning workflow** applied to the **Telco Churn dataset** (or fallback dataset for testing).  
+It includes preprocessing, training multiple classifiers, evaluating performance, and generating reports + visuals.
 
-## Tasks
-- Split data; try Logistic Regression, RandomForest, and XGBoost (optional)
-- Use cross‑validation; tune with GridSearchCV
-- Report precision/recall, ROC‑AUC, confusion matrix
-- Write a 1‑page **Model Card** in `reports/model_card.md`
+---
 
-## Acceptance Criteria
-- `src/train.py` trains & saves model to `models/model.pkl`
-- `src/evaluate.py` prints metrics & saves plots to `reports/`
-- Clear discussion of metrics aligned to a use case (e.g., fraud detection)
+## 📂 Project Structure
+
+
+## ⚙️ Workflow
+- Data preprocessing (scaling, encoding, cleaning)
+- Train Logistic Regression + Decision Tree
+- Evaluate with accuracy, F1, confusion matrix
+- Save models, metrics, and visuals
+
+## 📊 Results Snapshot
+- Logistic Regression Accuracy: 0.97
+- Decision Tree Accuracy: 0.92
+
+👉 [See full report with visuals](reports/report.md)
+
+## 📈 Visuals
+![Decision Tree Feature Importance](reports/tree_feature_importance.png)  
+![Logistic Regression Coefficients](reports/logreg_coefficients.png)
