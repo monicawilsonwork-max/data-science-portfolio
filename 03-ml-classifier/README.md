@@ -21,5 +21,9 @@ It includes preprocessing, training multiple classifiers, evaluating performance
 👉 [See full report with visuals](reports/report.md)
 
 ## 📈 Visuals
-![Decision Tree Feature Importance](reports/tree_feature_importance.png)  
+
+### Decision Tree Feature Importance
+![Decision Tree Feature Importance](reports/tree_feature_importance.png)
+
+### Logistic Regression Coefficients
 ![Logistic Regression Coefficients](reports/logreg_coefficients.png)
