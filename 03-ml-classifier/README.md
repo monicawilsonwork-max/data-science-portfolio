@@ -27,3 +27,7 @@ It includes preprocessing, training multiple classifiers, evaluating performance
 
 ### Logistic Regression Coefficients
 ![Logistic Regression Coefficients](reports/logreg_coefficients.png)
+
+👉 [See full report with more details](reports/report.md)
+
+
