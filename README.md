@@ -19,6 +19,9 @@ This portfolio showcases my journey in coding, data analysis, and applied machin
 - **03-ml-classifier** → Machine learning model (classification) with performance report  
 - **04-nlp** → Natural language processing (sentiment analysis & text classification)  
 - **05-dashboard** → Interactive Streamlit dashboard for KPIs & insights  
+- [Telco Customer Churn — Decision Scientist Case Study](01-data-cleaning-eda/telco-churn/README.md)
+- [SQL Analytics — Business Insights Case Study](02-sql-analytics/README.md)
+
 
 ---
 ## 📊 Featured Work
