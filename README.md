@@ -12,6 +12,15 @@ This portfolio documents my journey in coding, data analysis, and applied ML —
 - ⚙️ Skills: Python, Pandas, SQL, scikit-learn, Streamlit, data visualization  
 
 ---
+## Job-Aligned Focus
+This portfolio highlights **AI evaluation, benchmarking, dataset validation, and structured feedback**:
+- Review and refine **AI-generated code, prompts, and responses**
+- Validate **algorithmic accuracy and soundness**
+- Run **benchmarking** with clear metrics and comparisons
+- Perform **data wrangling/quality checks** and document assumptions
+- Communicate **structured, business-ready feedback** with visuals and KPIs
+
+See featured projects below for concrete examples mapped to these tasks.
 
 ## 📂 Featured Projects
 
