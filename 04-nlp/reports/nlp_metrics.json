@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.8997,
+  "f1": 0.9011,
+  "model": "LogisticRegression",
+  "vectorizer": "TfidfVectorizer(1-2gram, max_features=20000, stop_words='english')",
+  "n_train": 40000,
+  "n_test": 10000
+}
