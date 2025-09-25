@@ -1,4 +1,5 @@
 # GPU Setup & Verification
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monicawilsonwork-max/data-science-portfolio/blob/main/06-gpu-setup/gpu_verification.ipynb)
 
 This folder contains a simple notebook (`gpu_verification.ipynb`) that verifies GPU availability in Google Colab.  
 GPU access is an important prerequisite for training and testing machine learning models efficiently.
@@ -12,7 +13,9 @@ GPU access is an important prerequisite for training and testing machine learnin
 Many machine learning workflows rely on GPU acceleration for training deep learning models.  
 This notebook provides a quick way to ensure that your Colab environment is ready for ML experiments.
 
-## How to Use
+## How to Use:
+**Notebook:** [gpu_verification.ipynb](./gpu_verification.ipynb)
+
 1. Open the notebook in Google Colab.  
 2. Run all cells to verify GPU access.  
 3. If a GPU is not available, change runtime type:  
